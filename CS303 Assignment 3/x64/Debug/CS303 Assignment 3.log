@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sylvi\OneDrive\Desktop\CS303 Assignment 3\main.cpp(45,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CS303 Assignment 3.vcxproj -> C:\Users\sylvi\OneDrive\Desktop\CS303 Assignment 3\x64\Debug\CS303 Assignment 3.exe
